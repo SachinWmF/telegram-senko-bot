@@ -26,15 +26,14 @@ const (
 	GCP_DIR              = "./serverless_function_source_code"
 
 	START_REPLY = `Wewcome! OwO
-Senko-san onwy wowks on gwouwps. Juwst add me to uw gwouwp and i'ww gweat aww newcomews.
-If u want me to give u a gweeting gif with cuwstom name, uwse command /genewate [name]. That command onwy wowks hewe and not in gwouwps UwU
-Use command /wepo to get a wink to my souwwce code on GitHuwb.`
+Senko-san only works on groups. Just add me to your group and i'will great all newcomers.
+If u want me to give u a greeting gif with custom name, use command /generate [name]. That command only works here and not in groups UwU. My Creator Is @SachinWmF 😍.`
 	REPO_URL                   = "https://github.com/4Kaze/telegram-senko-bot"
 	GENERATE_USAGE             = "Usage: /genewate [name], whewe [name] is uw name OwO"
 	GENERATION_STARTED_MESSAGE = "Gotcha! OwO howd on, it wiww take a dozen seconds"
 	START_COMMAND              = "/start"
-	REPO_COMMAND               = "/wepo"
-	GENERATE_COMMAND           = "/genewate"
+	REPO_COMMAND               = "/repo"
+	GENERATE_COMMAND           = "/generate"
 )
 
 var (
